@@ -1,3 +1,4 @@
+package Tiposvariaveis;
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         //TIPOS PRIMITIVOS QUE PODEM CONTER PARTES FRACIONÁRIAS PODEM SER

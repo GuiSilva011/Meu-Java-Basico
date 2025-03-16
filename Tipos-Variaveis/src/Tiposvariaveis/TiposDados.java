@@ -1,3 +1,4 @@
+package Tiposvariaveis;
 public class TiposDados {
   public static void main(String[] args){
    //ATENÇÃO AS PECULIARIDADE A TRABALHAR COM ALGUNS TIPOS DE DADOS
